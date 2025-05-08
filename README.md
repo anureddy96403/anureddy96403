@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm currently a final-year B.Tech Electronics and 
 - 🎓 Pursuing B.Tech in ECE (2025 Batch)
 - 🔭 Exploring **C Programming**, **Python**, and **Web Technologies**
 - 🌱 Currently learning **Data Science** and **Generative AI**
-- 🛠️ Hands-on experience with **MATLAB**, **AutoCAD**, **SQL**, and **Tomcat**
+- 🛠️ Hands-on experience with **MATLAB**, **SQL**, and **Tomcat**
 - 💡 Strong foundation in **Data Structures**, **VLSI**, and **Circuit Designing**
 
 ---
