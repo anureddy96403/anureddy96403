@@ -1,5 +1,5 @@
 # Hi, I'm Puchala Anusha 👋
-Welcome to my GitHub profile! I'm currently a final-year B.Tech Electronics and Communication Engineering student at Avanthi Institute of Engineering & Technology, JNTUH. I’m passionate about coding, problem-solving, and continuously improving my technical skill set.
+Welcome to my GitHub profile! I'm completedB.Tech Electronics and Communication Engineering student at Avanthi Institute of Engineering & Technology, JNTUH. I’m passionate about coding, problem-solving, and continuously improving my technical skill set.
 
 ---
 
