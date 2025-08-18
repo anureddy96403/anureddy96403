@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm completedB.Tech Electronics and Communication 
 - 🎓 Pursuing B.Tech in ECE (2025 Batch)
 - 🔭 Exploring **C Programming**, **Python**, and **Web Technologies**
 - 🌱 Currently learning **Data Science** and **Generative AI**
-- 🛠️ Hands-on experience with **MATLAB**, **SQL**, and **Tomcat**
+- 🛠️ Hands-on experience with **MATLAB**
 - 💡 Strong foundation in **Data Structures**, **VLSI**, and **Circuit Designing**
 
 ---
@@ -17,11 +17,10 @@ Welcome to my GitHub profile! I'm completedB.Tech Electronics and Communication 
 
 - **Languages**: C, Python  
 - **Web Technologies**: HTML, CSS  
-- **Databases**: SQL  
 - **Tools/IDEs**: Eclipse, CLion, VS Code, Geany  
 - **Design & Simulation**: MATLAB
 - **Operating System**: Windows  
-- **Other Skills**: Data Structures, Generative AI, VLSI, Tomcat Server
+- **Other Skills**: Data Structures, Generative AI, VLSI
 
 ---
 
